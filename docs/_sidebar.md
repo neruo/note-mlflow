@@ -1,2 +1,6 @@
 - [HOME](README.md)
-- [install](install.md)
+<!-- - **Scenarios** -->
+<!-- - **Troubleshooting** -->
+<!-- - **Commands** -->
+<!-- - **APIs** -->
+<!-- - **Tips** -->
